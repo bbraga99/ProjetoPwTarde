@@ -31,6 +31,18 @@
         </a>
         </li>
 
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="./usuarioCreate.php">
+            Cadastro de usuário
+          </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="./usuarios.php">
+            Lista de usuário
+          </a>
+        </li>
+
       
 
       </ul>
